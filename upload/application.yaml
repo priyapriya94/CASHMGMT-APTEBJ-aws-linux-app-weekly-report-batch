@@ -1,0 +1,6 @@
+DISTRIBUTION_LIST_TYPE: G
+DISTRIBUTION_LIST_NUMBER: 11
+
+spring:
+  main:
+    web-application-type: NONE
